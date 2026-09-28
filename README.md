@@ -1,4 +1,4 @@
-# Krychloboti simulátor
+# Cubots-reconfigurator
 
 Simple rust project for simulating the cubot planning environment and testing the performance of different algorithms.
 
@@ -21,7 +21,7 @@ The algorithms tested in this work:
 
 ## Documentation
 
-TODO
+you can see the programmer documentation here: https://erinsc.github.io/Cubots-reconfigurator/
 
 ## How to run
 
