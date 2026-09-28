@@ -21,7 +21,7 @@ The algorithms tested in this work:
 
 ## Documentation
 
-TODO
+you can see the programmer documentation here: https://erinsc.github.io/Cubots-reconfigurator/
 
 ## How to run
 
